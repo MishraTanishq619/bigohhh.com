@@ -1,0 +1,8 @@
+# MOJO_AUTH_API=test-7a54e3a8-8f65-4537-95ef-891b4c063814
+
+# for OTP mailer
+SMTP_SERVICE_PROVIDER="gmail"
+SMTP_SENDER_MAIL="mishratanishq619@gmail.com"
+SMTP_SENDER_APP_PASSKEY="hhxh goar pmre jwns " 
+
+MAILER_FROM="noreply@bigohhh.com"
